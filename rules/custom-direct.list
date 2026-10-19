@@ -1,0 +1,11 @@
+# 自定义直连规则集
+# Loon 在 Remote Rule 中引用并指定 policy=DIRECT。
+
+# 金十数据：行情、消息、API 与静态资源
+DOMAIN-SUFFIX,jin10.com
+
+# Wise 金融服务
+DOMAIN-SUFFIX,wise.com
+
+# 学科网组卷
+DOMAIN-SUFFIX,zujuan.xkw.com
