@@ -1,0 +1,7 @@
+# Red Pocket GSMA（AT&T）Wi-Fi Calling 分流
+# 在 Loon Remote Rule 中引用，policy 指向自己的美国家宽出口策略。
+# 迁自 Surge iPhone 的专项分流；仅指定出口，不配置 MitM 或系统接管。
+DOMAIN,epdg.epc.att.net
+DOMAIN,sentitlement2.mobile.att.net
+DOMAIN,vvm.mobile.att.net
+DOMAIN-SUFFIX,pub.3gppnetwork.org
