@@ -1,0 +1,9 @@
+# 自定义代理：Grok Bot 聊天服务及 Grok / xAI
+# 不固定出口；在 Loon Remote Rule 中指定自己的代理策略。
+# DOMAIN-SUFFIX 同时覆盖根域名和子域名。
+# Grok Bot 已确认使用的聊天服务
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorvm.com
+# Grok / xAI 网页及 API
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
