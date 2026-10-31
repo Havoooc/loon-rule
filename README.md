@@ -10,9 +10,10 @@
 
 - [银行 App VPN 兼容](https://raw.githubusercontent.com/Havoooc/loon-rule/main/plugins/bank-vpn-compat.lpx)
 - [东方财富去广告](https://raw.githubusercontent.com/Havoooc/loon-rule/main/plugins/eastmoney-adblock.lpx)
+- [金十数据去广告](https://raw.githubusercontent.com/Havoooc/loon-rule/main/plugins/jin10-adblock.lpx)
 - [米家去广告](https://raw.githubusercontent.com/Havoooc/loon-rule/main/plugins/mijia.lpx)
 
-银行兼容无需 MitM；东方财富和米家需开启 MitM 并在设备上信任 Loon CA。插件最低声明版本为 Loon 3.5.1 (978)，功能仍须在实际 App 中确认。不要与其他同类插件重复启用。
+银行兼容无需 MitM；东方财富、金十数据和米家需开启 MitM 并在设备上信任 Loon CA。插件最低声明版本为 Loon 3.5.1 (978)，功能仍须在实际 App 中确认。不要与其他同类插件重复启用。
 
 ## 分流规则
 
