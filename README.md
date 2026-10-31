@@ -2,6 +2,10 @@
 
 自用 Loon 插件与分流规则，按选择独立维护。
 
+## 策略图标
+
+`icons/` 中的全球、家宽和代理图标来自 [Koolson/Qure](https://github.com/Koolson/Qure)，供 Loon 策略组引用。
+
 ## 插件
 
 - [银行 App VPN 兼容](https://raw.githubusercontent.com/Havoooc/loon-rule/main/plugins/bank-vpn-compat.lpx)
